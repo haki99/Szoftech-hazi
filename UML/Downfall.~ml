@@ -4769,7 +4769,7 @@
 <XPD:ATTR name="Left" type="integer">64</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">36</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">648</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">344</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">353</XPD:ATTR>
 <XPD:REF name="Model">zhiNEttYgEKzasuB2ySFCgAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="LabelView" guid="oK6zEKl0NUy1zGdf+jA88AAA">
 <XPD:ATTR name="Text" type="string">Player lose</XPD:ATTR>
